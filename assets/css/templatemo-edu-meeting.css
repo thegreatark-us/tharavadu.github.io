@@ -728,11 +728,11 @@ banner
 }
 
 .main-banner .caption h2 {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 20px;
-  font-size: 30px;
+  font-size: 36px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 800;
   color: #fff;
   letter-spacing: 1px;
 }
@@ -740,13 +740,13 @@ banner
 .main-banner .caption h2 em {
   font-style: normal;
   color: #f5a425;
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .main-banner .caption p {
   color: #fff;
-  font-size: 14px;
-  max-width: 570px;
+  font-size: 12px;
+  max-width: 470px;
 }
 
 .main-banner .caption .main-button-red {
